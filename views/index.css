@@ -1,0 +1,46 @@
+body {
+	padding-top: 70px;
+}
+
+.main-header{
+	background-color: ;
+}
+
+input[type=text] {
+	width: 100%;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 16px;
+}
+
+.brands {
+	overflow: scroll;
+}
+
+h1 {
+	position: center;
+}
+
+.col-md-3 {
+	border: 2px solid #ccc;
+}
+
+.panel panel-default {
+	width: 50%;
+}
+
+/*
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+*/
+
+
